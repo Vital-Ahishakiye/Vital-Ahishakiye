@@ -1,7 +1,7 @@
 ## Welcome to Vital's GitHub Page!
 ![](https://github.com/Vital-Ahishakiye/Vital-Ahishakiye/blob/main/data%20visuals.png?raw=true)
 
-***Vital is a Data Science and Machine Learning enthusiast. He likes exploring new things, meeting new people, and having conversations. He believes that engaging in a conversation with diverse people is equivalent to reading books.***
+***Vital is a Data Science and Machine Learning enthusiast. He likes exploring new things, meeting new people, and having conversations. He believes that engaging in conversations with diverse people is equivalent to reading books.***
 
 ### Skills: PTHYON || BASIC SQL
 
