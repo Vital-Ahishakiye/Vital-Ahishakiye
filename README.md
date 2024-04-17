@@ -5,6 +5,7 @@
 
 ### Skills: PTHYON || BASIC SQL
 
+- 🔭 **A volunteer at Statistics Without Borders (SWB)**
 - 🔭 **I’m currently working on foreground object removal from multiview images as part of an Applied Computer Vision course group project.**
 - 🔭 **I’m also working on anomaly detection in farmlands for my Machine Learning for Earth Observation course project.**
 - 🌱 **I’m currently learning SQL and Earth & Environmental Data Science through the ESIIL Data short course.**
