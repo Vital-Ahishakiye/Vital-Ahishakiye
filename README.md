@@ -3,7 +3,7 @@
 
 ***Vital is a Data Science and Machine Learning enthusiast. He likes exploring new things, meeting new people, and having conversations. He believes that engaging in conversations with diverse people is equivalent to reading books.***
 
-🛠️ ### Skills:
+### 🛠️ Skills:
 
 Data Handling: Proficient in Pandas for efficient dataset manipulation.
 Math Operations: Skilled in NumPy for precise computations.
@@ -12,7 +12,7 @@ Machine Learning: Trained models using Scikit-learn.
 Image Processing: Worked with OpenCV, TensorFlow, PyTorch, and SciPy.
 Versatility: Comfortable navigating other Python libraries commonly used in Data Analytics.
 
-🚀 #### Projects Worked On:
+### 🚀 Projects Worked On:
 
 1. Taxi Fare Prediction
 2. Customer Segmentation and Classification (Kaggle competition)
@@ -20,7 +20,7 @@ Versatility: Comfortable navigating other Python libraries commonly used in Data
 4. Foreground Object Removal from Multiview Images (case: Google Street View images)
 5. Anomaly Detection in Farmlands (using CNN and Satellite Images)
 
-🌟 ### Miscellaneous:
+### 🌟 Miscellaneous:
 
 Volunteer at Statistics Without Borders (SWB)
 Social Affairs Minister in the Student Guild (CMU-Africa)
