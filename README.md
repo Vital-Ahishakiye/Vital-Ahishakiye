@@ -6,8 +6,11 @@
 ### 🛠️ Skills:
 
 •	Technical Expertise: Python, SQL, ArcGIS Pro, Tableau
+
 •	Data Science Competencies: Exploratory Data Analysis, Regression Analysis, Advanced Statistical Modelling, Predictive Analytics
+
 •	Geospatial Analytics: Data Collection, Geo-Data Interpretation, Visualization
+
 •	Soft Skills: Analytical Thinking, Stakeholder Communication, Cross-functional Team Collaboration, Project and Team Management
 
 ### 🚀 Projects Worked On:
