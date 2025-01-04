@@ -1,29 +1,43 @@
 ## Welcome to Vital's GitHub Page!
 ![](https://github.com/Vital-Ahishakiye/Vital-Ahishakiye/blob/main/data%20visuals.png?raw=true)
 
-***Vital is a Data Science and Machine Learning enthusiast. He likes exploring new things, meeting new people, and having conversations. He believes that engaging in conversations with diverse people is equivalent to reading books.***
+***I am a passionate Data Scientist driven by curiosity and a desire to uncover data-driven solutions. I enjoy applying data analytics, machine learning, and geospatial analysis to real-life projects that bring impactful change to society. Recently, I have focused on transportation and education domains, creating actionable insights to drive societal improvement.***
 
 ### 🛠️ Skills:
 
-Data Handling: Proficient in Pandas for efficient dataset manipulation.
-Math Operations: Skilled in NumPy for precise computations.
-Visualizations: Experienced with Tableau, Matplotlib and Seaborn for creating impactful data insights.
-Machine Learning: Trained models using Scikit-learn.
-Image Processing: Worked with OpenCV, TensorFlow, PyTorch, and SciPy.
-Versatility: Comfortable navigating other Python libraries commonly used in Data Analytics.
+•	Technical Expertise: Python, SQL, ArcGIS Pro, Tableau
+•	Data Science Competencies: Exploratory Data Analysis, Regression Analysis, Advanced Statistical Modelling, Predictive Analytics
+•	Geospatial Analytics: Data Collection, Geo-Data Interpretation, Visualization
+•	Soft Skills: Analytical Thinking, Stakeholder Communication, Cross-functional Team Collaboration, Project and Team Management
 
 ### 🚀 Projects Worked On:
 
-1. Taxi Fare Prediction
-2. Customer Segmentation and Classification (Kaggle competition)
-3. Titanic Shipwreck Survivors Prediction (Kaggle competition)
-4. Foreground Object Removal from Multiview Images (case: Google Street View images)
-5. Anomaly Detection in Farmlands (using CNN and Satellite Images)
+Outstanding Projects:
+_______________________
 
-### 🌟 Miscellaneous:
+1. Education Accessibility in Rwanda Dashboard – Designed an interactive dashboard analyzing education access and disparities across sectors.
 
-Volunteer at Statistics Without Borders (SWB)
-Social Affairs Minister in the Student Guild (CMU-Africa)
+2. Unemployment Factors in Rwanda – Investigated key drivers of unemployment, providing actionable insights for policymakers.
+
+3. Taxi Fare Prediction – Built predictive models for accurate taxi trip fare estimation using advanced regression techniques and geospatial data.
+
+4. Cost and Time Efficiency in Sub-Saharan Urban Transport – Conducted comparative analyses of various transport modes to recommend optimal urban mobility solutions.
+
+5. Employee Churn Prediction – Developed machine learning models to identify key factors contributing to employee turnover, aiding in retention strategies.
+
+
+### 🌟Skills
+
+Python, SQL, Tableau, ArcGIS Pro | Exploratory Data Analysis (EDA), Regression Analysis, Predictive Analytics, Geospatial Analysis
+
+### Volunteer Work
+
+Data Analyst at Statistics Without Borders (SWB) – Supporting underserved communities with data-driven insights.
+Social Affairs Minister in the Student Guild 2024 (CMU-Africa) 
+
+I am eager to connect with professionals in data science and analytics to collaborate on innovative solutions that create meaningful impact.
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ahishakiye-vital/)  
